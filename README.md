@@ -6,6 +6,7 @@
 #
 
 
+
 ![Yakshesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaksheshgupta&show_icons=true&theme=transparent) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaksheshgupta&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,4 +14,4 @@
 
 #  📫 Socials
 
-<a target="_blank" href="https://www.linkedin.com/in/yakshesh-gupta-254643230/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a target="_blank" href="https://twitter.com/GuptaYakshesh">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a target="_blank" href="yaksheshgupta59@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a target="_blank" href="">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a target="_blank" href="https://www.linkedin.com/in/yakshesh-gupta-254643230/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a target="_blank" href="https://twitter.com/GuptaYakshesh">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a target="_blank" href="mailto:yaksheshgupta59@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
