@@ -13,6 +13,12 @@
 | -- |
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaksheshgupta/yaksheshgupta/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yaksheshgupta/yaksheshgupta/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 #  📫 Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/yakshesh-gupta-254643230/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a target="_blank" href="https://twitter.com/GuptaYakshesh">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a target="_blank" href="mailto:yaksheshgupta59@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
