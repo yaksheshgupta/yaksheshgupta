@@ -1,6 +1,4 @@
 # <a target="_blank" href="yaksheshg.me"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&size=30&duration=5000&pause=100&color=5B5BF7&width=1001&lines=Hello+%F0%9F%91%8B+;I+am+Yakshesh+Gupta!+;I+am+a+Web+and+Smart+Contract+Developer." alt="Typing SVG" /></a>
-
-
 # 🧑‍💻 Tech Stack
   
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
